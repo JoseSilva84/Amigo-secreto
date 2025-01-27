@@ -1,4 +1,4 @@
-                            Amigo Secreto
+                                        Amigo Secreto
 
 
 Este projeto é uma aplicação simples de sorteio de amigo secreto, desenvolvida em JavaScript.
@@ -8,6 +8,8 @@ Este projeto é uma aplicação simples de sorteio de amigo secreto, desenvolvid
   Exibir a lista de amigos na tela.
   Sortear um amigo da lista.
   Limpar a lista após um número de sorteios.
+
+
 *Funções
   adicionarAmigo(): Adiciona um amigo à lista a partir do campo de texto.
   listaAmigoNaTela(): Exibe a lista de amigos na tela.
